@@ -5,7 +5,7 @@
 
 ## Prompt - Belonging
 
-Prototype : [Belonging - Finding your place](https://editor.p5js.org/LADIA22/sketches/rElRnSYjQ)
+[Belonging - Finding your place](https://editor.p5js.org/LADIA22/sketches/rElRnSYjQ)
 
 This sketch shows balls of different color bouncing around a frame. If colors do not match, or balls do not attract, then they bounce off each other until they find a cluster of like color balls.
 
