@@ -17,7 +17,7 @@ This sketch shows balls of different color bouncing around a frame. If colors do
 
 ## Prompt - Spirit
 
-<https://editor.p5js.org/>
+[Spirit - Lost Spirit](https://editor.p5js.org/LADIA22/sketches/85u8kcR9I)
 
-[Provide a brief description. What are you trying to show? What other info should I know to give you a great score?]
+The sketch depicts a lost spirit on a dark canvas. 
 
