@@ -5,7 +5,7 @@
 
 ## Prompt - Belonging
 
-[Belonging - Finding your place](https://editor.p5js.org/LADIA22/sketches/rElRnSYjQ)
+[Belonging - Finding your place](https://editor.p5js.org/LADIA22/full/rElRnSYjQ)
 
 This sketch shows balls of different color bouncing around a frame. If colors do not match, or balls do not attract, then they bounce off each other until they find a cluster of like color balls.
 
@@ -17,7 +17,7 @@ This sketch shows balls of different color bouncing around a frame. If colors do
 
 ## Prompt - Spirit
 
-[Spirit - Lost Spirit](https://editor.p5js.org/LADIA22/sketches/85u8kcR9I)
+[Spirit - Lost Spirit](https://editor.p5js.org/LADIA22/full/85u8kcR9I)
 
 The sketch depicts a lost spirit on a dark canvas. 
 
