@@ -7,17 +7,19 @@
 
 [Belonging - Finding your place](https://editor.p5js.org/LADIA22/full/rElRnSYjQ)
 
-This sketch shows balls of different color bouncing around a frame. If colors do not match, or balls do not attract, then they bounce off each other until they find a cluster of like color balls.
+Simulation of social interaction. The balls are bouncing and colliding into one another represent individuals in a shared space. Balls of like colors attach to each other, while balls of unlike colors bounce off. Metaphor for people forming social groups based on a shared sense of belonging. 
 
 ## Prompt - Reflection
 
-<https://editor.p5js.org/>
+https://editor.p5js.org/LADIA22/full/YqHrRjpi_
 
-[Provide a brief description. What are you trying to show? What other info should I know to give you a great score?]
+[Reflection - The Reflective Rorschach](https://editor.p5js.org/LADIA22/full/YqHrRjpi_)
+
+The sketch draws an inkblot in a four-quadrant style. Drawing in one quadrant is mirrored in the adjacent ones, creating a symmetrical pattern that resembles the Rorschach inkblot used in psychological testing. The symmetrical nature of the sketch reflects on the idea of reflection as it presents a mirror image.
 
 ## Prompt - Spirit
 
-[Spirit - Lost Spirit](https://editor.p5js.org/LADIA22/full/85u8kcR9I)
+[Spirit - Wandering Spirit](https://editor.p5js.org/LADIA22/full/85u8kcR9I)
 
-The sketch depicts a lost spirit on a dark canvas. 
+Generative art sketch depicts a single glowing entity that floats around the screen in a seemingly random pattern. The style of movement evokes the spirit of freedom or a wandering soul. 
 
