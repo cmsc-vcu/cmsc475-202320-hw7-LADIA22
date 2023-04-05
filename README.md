@@ -19,5 +19,5 @@ The sketch draws an inkblot in a four-quadrant style "painting". Drawinng in one
 
 [Spirit - Wandering Spirit](https://editor.p5js.org/LADIA22/full/85u8kcR9I)
 
-Generative art sketch depicts a single glowing entity that floats around the screen in a seemingly random pattern. The style of movement of the glowing sphere evokes the spirit of freedom or a wandering soul. 
+Generative art sketch depicts a single glowing entity that floats around the screen in a seemingly random pattern. The style of movement of the glowing sphere evokes the spirit of freedom or a wandering soul. (...or a Firefly)
 
