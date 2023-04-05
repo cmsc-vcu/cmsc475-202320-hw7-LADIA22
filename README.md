@@ -11,8 +11,6 @@ Simulation of social interaction. The balls are bouncing and colliding into one 
 
 ## Prompt - Reflection
 
-https://editor.p5js.org/LADIA22/full/YqHrRjpi_
-
 [Reflection - The Reflective Rorschach](https://editor.p5js.org/LADIA22/full/YqHrRjpi_)
 
 The sketch draws an inkblot in a four-quadrant style. Drawing in one quadrant is mirrored in the adjacent ones, creating a symmetrical pattern that resembles the Rorschach inkblot used in psychological testing. The symmetrical nature of the sketch reflects on the idea of reflection as it presents a mirror image.
