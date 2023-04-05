@@ -5,9 +5,9 @@
 
 ## Prompt - Belonging
 
-<https://editor.p5js.org/LADIA22/sketches/rElRnSYjQ/>
+Prototype : [Belonging - Finding your place](https://editor.p5js.org/LADIA22/sketches/rElRnSYjQ)
 
-[Provide a brief description. What are you trying to show? What other info should I know to give you a great score?]
+This sketch shows balls of different color bouncing around a frame. If colors do not match, or balls do not attract, then they bounce off each other until they find a cluster of like color balls.
 
 ## Prompt - Reflection
 
